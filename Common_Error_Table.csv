@@ -1,0 +1,4 @@
+Issue,Details,Solution
+Gas estimation failed,The transaction execution will likely fail. Do you want to force sending?,Check your permission for the transaction. Check that the require statements are satisfied.
+Error encoding arguments,Error: types/values length mismatch. ,"Use quotes """" for strings and addresses"
+Invalid JSON RPC response,"You likely do not have permission to access this method, or the 'require' statements are being satisfied.",Solution: Check that the contract owner and your account match. Check that the conditions of the transaction are satisfied.
