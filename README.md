@@ -38,6 +38,10 @@ As you transition to develop your DApp frontend, don't feel like you need to lea
 
 ### Additional resources
 
+**You wrote a contract, now make a dApp!**
+
+Check out http://oneclickdapp.com to instantly build a dApp with a simple URL to bookmark or share with a friend.
+
 **Security**
 
 - [Smart contract best practices](https://consensys.github.io/smart-contract-best-practices/) from ConsenSys
